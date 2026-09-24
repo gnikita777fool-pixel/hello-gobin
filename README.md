@@ -125,6 +125,9 @@ hello-go/
 
 Именно такую структуру требует задание. 
 
+<img width="294" height="192" alt="image" src="https://github.com/user-attachments/assets/09d24c71-9122-46d6-9918-a65f41528030" />
+
+
 ---
 
 # 5. Создай `go.mod`
@@ -531,6 +534,9 @@ PASS
 
 ---
 
+<img width="729" height="243" alt="image" src="https://github.com/user-attachments/assets/8dd62575-eec0-4471-98ff-cfea129f3ee0" />
+
+
 # 13. Создай репозиторий GitHub
 
 Теперь зайди на GitHub.
@@ -586,6 +592,7 @@ git commit -m "Initial commit: Go app with CI/CD to GitHub Releases"
 ```powershell
 git branch -M main
 ```
+<img width="1097" height="311" alt="image" src="https://github.com/user-attachments/assets/603246bf-4926-4d3e-8429-8a3224dbfc3a" />
 
 ---
 
@@ -625,6 +632,7 @@ origin  https://github.com/SherKron/hello-go.git (push)
 ```powershell
 git push -u origin main
 ```
+<img width="1408" height="162" alt="image" src="https://github.com/user-attachments/assets/ffeeb4a4-90fa-4026-b83e-d574d9537095" />
 
 GitHub может попросить авторизацию.
 
@@ -656,6 +664,8 @@ test
  └── Build
 ```
 
+<img width="2182" height="778" alt="image" src="https://github.com/user-attachments/assets/3e08ccfd-2cd5-444d-8f2c-fc4438298309" />
+
 Поскольку сейчас мы сделали:
 
 ```text
@@ -683,6 +693,7 @@ release
 ```text
 ✓
 ```
+<img width="2149" height="349" alt="image" src="https://github.com/user-attachments/assets/e12dbf3c-ebd1-4ce7-9bb1-8f3fc21c2e9f" />
 
 значит CI работает.
 
@@ -743,6 +754,9 @@ macOS AMD64
 macOS ARM64
 Windows AMD64
 ```
+
+<img width="2219" height="410" alt="image" src="https://github.com/user-attachments/assets/14bc62cd-2f61-46c0-a29a-d305300eb665" />
+
 
 То есть получится 5 файлов. 
 
