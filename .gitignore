@@ -1,0 +1,6 @@
+/hello-go
+/hello-go-*
+.env
+.idea/
+.vscode/
+*.iml
